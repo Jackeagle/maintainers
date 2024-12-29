@@ -1,0 +1,205 @@
+[
+    {
+        "mname": "Aryan Arora",
+        "manufacturer": "Asus",
+        "device": "ZenFone 5z",
+        "codename": "Z01R",
+        "avatar": "https://avatars.githubusercontent.com/u/34274451?v=4"
+    },
+    {
+        "mname": "Aryan Arora",
+        "manufacturer": "Google",
+        "device": "Pixel 7",
+        "codename": "panther",
+        "avatar": "https://avatars.githubusercontent.com/u/34274451?v=4"
+    },
+    {
+        "mname": "Ayan Mukherjee",
+        "manufacturer": "Realme",
+        "device": "XT",
+        "codename": "RMX1921",
+        "avatar": "https://telegra.ph/file/49a73e4f1704451c90102.jpg"
+    },
+    {
+        "mname": "Bcrichster",
+        "manufacturer": "Motorola",
+        "device": "G Stylus",
+        "codename": "amogus",
+        "avatar": "https://avatars.githubusercontent.com/u/11166051?v=4"
+    },
+    {
+        "mname": "drishal",
+        "manufacturer": "Nothing",
+        "device": "Phone 2",
+        "codename": "Pong",
+        "avatar": "https://avatars.githubusercontent.com/u/32875739?v=4"
+    },
+    {
+        "mname": "Dynamic Panda",
+        "manufacturer": "Samsung",
+        "device": "Galaxy A70",
+        "codename": "a70q",
+        "avatar": "https://avatars.githubusercontent.com/u/136295805?v=4"
+    },
+    {
+        "mname": "HMTheBoy154",
+        "manufacturer": "Generic",
+        "device": "x86/x86_64",
+        "codename": "x86_64",
+        "avatar": "https://avatars.githubusercontent.com/u/39849246?v=4"
+    },
+    {
+        "mname": "Jackeagle",
+        "manufacturer": "Asus",
+        "device": "ROG Phone 3",
+        "codename": "obiwan",
+        "avatar": "https://avatars.githubusercontent.com/u/7821082?v=4"
+    },
+    {
+        "mname": "Jackeagle",
+        "manufacturer": "Google",
+        "device": "Pixel 4a",
+        "codename": "sunfish",
+        "avatar": "https://avatars.githubusercontent.com/u/7821082?v=4"
+    },
+    {
+        "mname": "Jackeagle",
+        "manufacturer": "Google",
+        "device": "Pixel 5a",
+        "codename": "barbet",
+        "avatar": "https://avatars.githubusercontent.com/u/7821082?v=4"
+    },
+    {
+        "mname": "Jackeagle",
+        "manufacturer": "Asus",
+        "device": "ZenFone 9",
+        "codename": "AI2202",
+        "avatar": "https://avatars.githubusercontent.com/u/7821082?v=4"
+    },
+    {
+        "mname": "Jis G Jacob",
+        "manufacturer": "Google",
+        "device": "Pixel 6a",
+        "codename": "bluejay",
+        "avatar": "https://avatars.githubusercontent.com/u/7017922?v=4"
+    },
+    {
+        "mname": "Jis G Jacob",
+        "manufacturer": "Asus",
+        "device": "ROG Phone II",
+        "codename": "I001D",
+        "avatar": "https://avatars.githubusercontent.com/u/86867971?v=4"
+    },
+    {
+        "mname": "Jis G Jacob",
+        "manufacturer": "Nothing",
+        "device": "Phone 1",
+        "codename": "Spacewar",
+        "avatar": "https://avatars.githubusercontent.com/u/7017922?v=4"
+    },
+    {
+        "mname": "John McMahon",
+        "manufacturer": "Xiaomi",
+        "device": "Poco F2 Pro",
+        "codename": "lmi",
+        "avatar": "https://avatars.githubusercontent.com/u/33982324?v=4"
+    },
+    {
+        "mname": "Jon West",
+        "manufacturer": "Generic",
+        "device": "x86/x86_64",
+        "codename": "x86_64",
+        "avatar": "https://avatars0.githubusercontent.com/u/8572619?s=400&u=08ac440c6f26a475872641fad8f9f17ecb588d77&v=4"
+    },
+    {
+        "mname": "Jprimero15",
+        "manufacturer": "Xiaomi",
+        "device": "Redmi 7A / 8 / 8A / 8A Dual",
+        "codename": "mi439",
+        "avatar": "https://avatars.githubusercontent.com/u/17698387?v=4"
+    },
+    {
+        "mname": "Nitin Chobhe",
+        "manufacturer": "Google",
+        "device": "Pixel 2 XL",
+        "codename": "taimen",
+        "avatar": "https://avatars.githubusercontent.com/u/10797987?v=4"
+    },
+    {
+        "mname": "Rom Bdr. Gharti",
+        "manufacturer": "Xiaomi",
+        "device": "Redmi Note 10",
+        "codename": "mojito",
+        "avatar": "https://avatars.githubusercontent.com/u/21030085?v=4"
+    },
+    {
+        "mname": "Shripal Jain",
+        "manufacturer": "Xiaomi",
+        "device": "Redmi Note 10 Pro",
+        "codename": "sweet",
+        "avatar": "https://avatars.githubusercontent.com/u/16012350?v=4"
+    },
+    {
+        "mname": "Shripal Jain",
+        "manufacturer": "Google",
+        "device": "Pixel 8",
+        "codename": "shiba",
+        "avatar": "https://avatars.githubusercontent.com/u/16012350?v=4"
+    },
+    {
+        "mname": "Shripal Jain",
+        "manufacturer": "Google",
+        "device": "Pixel 8 Pro",
+        "codename": "husky",
+        "avatar": "https://avatars.githubusercontent.com/u/16012350?v=4"
+    },
+    {
+        "mname": "Sreelekshman S",
+        "manufacturer": "Realme",
+        "device": "X50 Pro 5G",
+        "codename": "bladerunner",
+        "avatar": "https://avatars.githubusercontent.com/u/114002076?v=4"
+    },
+    {
+        "mname": "Sreelekshman S",
+        "manufacturer": "Realme",
+        "device": "X50 Pro Player",
+        "codename": "bladerunner_48m",
+        "avatar": "https://avatars.githubusercontent.com/u/114002076?v=4"
+    },
+    {
+        "mname": "srgrusso",
+        "manufacturer": "Oneplus",
+        "device": "7 Pro",
+        "codename": "guacamole",
+        "avatar": "https://avatars.githubusercontent.com/u/31022564?v=4"
+    },
+    {
+        "mname": "srgrusso",
+        "manufacturer": "OnePlus",
+        "device": "9 Pro",
+        "codename": "lemonadep",
+        "avatar": "https://avatars.githubusercontent.com/u/31022564?v=4"
+    },
+    {
+        "mname": "srgrusso",
+        "manufacturer": "Samsung",
+        "device": "Galaxy Tab S5e",
+        "codename": "gts4lvwifi",
+        "avatar": "https://avatars.githubusercontent.com/u/31022564?v=4"
+    },
+    {
+        "mname": "Swapnil Vicky",
+        "manufacturer": "Xiaomi",
+        "device": "Poco F6 / Redmi Turbo 3",
+        "codename": "peridot",
+        "avatar": "https://avatars.githubusercontent.com/u/74442290?v=4"
+    },
+    {
+        "mname": "Tushar Bharti",
+        "manufacturer": "Xiaomi",
+        "device": "Redmi 12 5G / Poco M6 Pro 5G",
+        "codename": "sky",
+        "avatar": "https://avatars.githubusercontent.com/u/22019072?v=4"
+    }
+]
